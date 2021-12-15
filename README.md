@@ -72,7 +72,7 @@ Add a few screenshots for parts of the project completed till now to give the vi
 
 You'll have to link the screenshots from your drive folder here.
 
-[Drive link for Recordings & Screenshots](https://drive.google.com/file/d/1_C_2GBx85mIOGM0yk5L-AsrkbBrIA7Vp/view?usp=sharing)
+[Drive link for Screenshots](https://drive.google.com/file/d/1_C_2GBx85mIOGM0yk5L-AsrkbBrIA7Vp/view?usp=sharing)
 
 
 
